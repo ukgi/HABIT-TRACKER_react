@@ -1,1 +1,1 @@
-Habit Tracker with react 👍
+HABIT TRACKER PROJECT
